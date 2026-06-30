@@ -52,3 +52,9 @@ clientflow/
   frontend/
   backend/
 ```
+
+## Autor
+
+**Bruno Martins Rosa**
+
+Estudante de Análise e Desenvolvimento de Sistemas (ADS)
